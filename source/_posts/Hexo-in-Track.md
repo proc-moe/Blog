@@ -24,7 +24,7 @@ categories:
     ],
     "log_level": 1,
     "ssl": {
-        "cert": "cert.pem",
+        "cert": "fullchain.pem", # cert.pem 会出错呀
         "key": "key.pem"
     }
 }
