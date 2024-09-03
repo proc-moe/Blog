@@ -30,6 +30,9 @@ categories:
 }
 ```
 
+- `trojan` 
+## Updates:
+
 - `certbot` 用来部署 ssl， 一键式解决 `certbot --nginx`
 
 - `nginx` 需要初始化，可以从网上拷贝一份初始化设置，我昨天倒腾了一下，我也不知道到底怎么搞的。
